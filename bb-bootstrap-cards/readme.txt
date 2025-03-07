@@ -2,9 +2,9 @@
 Contributors: pratikchaskar
 Donate link: https://www.paypal.me/BrainstormForce
 Requires at least: 4.4
-Tags: beaver builder, page builder plugin, bootstrap cards, cards, bootstrap, drag and drop cards, bb bootstrap, Cards for Beaver Builder
+Tags: beaver builder, page builder plugin, bb bootstrap cards, drag and drop cards, Cards for Beaver Builder
 Stable tag: 1.1.6
-Tested up to: 6.6
+Tested up to: 6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
