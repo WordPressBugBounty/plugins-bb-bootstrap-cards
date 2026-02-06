@@ -1,14 +1,11 @@
 === Cards for Beaver Builder ===
 Contributors: pratikchaskar
-Donate link: https://www.paypal.me/BrainstormForce
 Requires at least: 4.4
 Tags: beaver builder, page builder plugin, bb bootstrap cards, drag and drop cards, Cards for Beaver Builder
-Stable tag: 1.1.6
-Tested up to: 6.7
+Stable tag: 1.1.8
+Tested up to: 6.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-URL : https://wordpress.org/plugins/beaver-builder-cards/
  
 Cards for Beaver Builder
  
@@ -45,8 +42,6 @@ Works like any other Beaver Builder module. Thus, it's easy!
 Responsive and mobile friendly cards
 Customizations make it easy to create attractive cards.
 
-Made with love at <a href="https://www.brainstormforce.com/?utm_source=wp-repo&utm_campaign=bbcards&utm_medium=description">Brainstorm Force</a>! 
-
 == What’s More? ==
 
 If you like this plugin, please leave us a good review and rating! Your feedback and suggestions will be highly appreciated.
@@ -65,8 +60,6 @@ You can also consider checking out our other plugins:
 
 <li><a href="https://www.ultimatebeaver.com/beaver-builder-freebies/column-seperator/?utm_source=wp-repo&utm_campaign=bbcards&utm_medium=other-plugins">Column Separator for Beaver Builder</a>: This plugin will no longer leave you pondering for a column separator in Beaver Builder. You can add it right away!</li>
  
-Visit our website to know more about the top WordPress products and services we offer. You can also stay updated with our upcoming endeavors by following us on <a href="https://www.brainstormforce.com/go/brainstorm-force-facebook-page/?utm_source=wp-repo&utm_campaign=bbcards&utm_medium=share">Facebook</a> and <a href="https://www.brainstormforce.com/go/brainstorm-force-twitter-page/?utm_source=wp-repo&utm_campaign=bbcards&utm_medium=share">Twitter</a>.
-
 == Installation ==
 
 1. Be sure that you have the [Beaver Builder](https://goo.gl/rYCvGw "Beaver Builder") installed and activated.
@@ -87,6 +80,12 @@ Visit our website to know more about the top WordPress products and services we 
 - [Bootstrap](https://getbootstrap.com/) is distributed under the terms of the MIT License.
 
 == Changelog ==
+
+= 1.1.8 =
+* Fixed: Dynamic styles not retrieving for Card button, remains in default.
+
+= 1.1.7 =
+Updated readme file.
 
 = 1.1.6 =
 Enhancement: Compatibility with WordPress 6.6.
